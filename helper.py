@@ -1,4 +1,4 @@
 __author__ = 'Kwame'
 
-def greeting(msg):
+def greet(msg):
     print(msg)
